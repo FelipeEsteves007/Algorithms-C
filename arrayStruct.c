@@ -18,9 +18,5 @@ int main(){
     for (int i = 0; i < size; i++) {
         printf("%s, %d, %d\n", cars[i].model, cars[i].year, cars[i].price);
     }
-    
-
-
-
     return 0;
 }
